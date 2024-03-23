@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Joqbay Tech](/images/@JOQBAYTECH.png)
+
 <!--
 **joqbay-tech/joqbay-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
